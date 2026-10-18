@@ -1,0 +1,11 @@
+[package]
+name = "koja"
+version = "0.0.1"
+edition = "2024"
+description = "Rust SDK for koja.sh, disposable sandboxes for AI agents"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/koja-sh/koja-rs"
+homepage = "https://koja.sh"
+readme = "README.md"
+keywords = ["sandbox", "agents", "microvm", "ai"]
+categories = ["api-bindings", "virtualization"]
